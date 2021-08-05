@@ -1,6 +1,6 @@
 # MZCheckbox
 
-A Simple Checkbox
+A Simple Checkbox Implemented with CoreGraphics
 
 ## Features
 
